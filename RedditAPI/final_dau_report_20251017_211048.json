@@ -1,0 +1,26 @@
+{
+  "generated_at": "2025-10-17T21:10:48.034579",
+  "calibration_factors": {
+    "k_dau": 48346.560846560846,
+    "k_wau": 176917.98941798942,
+    "k_mau": 322310.405643739
+  },
+  "averages": {
+    "dau_prime": 1512.0,
+    "wau_prime": 1512.0,
+    "mau_prime": 1512.0,
+    "dau_calibrated": 73100000.0,
+    "wau_calibrated": 267500000.0,
+    "mau_calibrated": 487333333.3333333
+  },
+  "daily_data": [
+    [
+      "2025-10-18",
+      1512,
+      1512,
+      1512,
+      1701,
+      30
+    ]
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "timestamp": "2025-10-17T20:46:52.290453",
+  "category_statistics": {},
+  "engagement_data": [
+    {
+      "subreddit": "AskReddit",
+      "subscribers": 57033137,
+      "avg_score": 0.9,
+      "avg_comments": 2.4,
+      "avg_upvote_ratio": 0.833,
+      "total_posts": 20,
+      "engagement_rate": 0.04208079944822253
+    },
+    {
+      "subreddit": "gaming",
+      "subscribers": 46980694,
+      "avg_score": 1006.3,
+      "avg_comments": 69.3,
+      "avg_upvote_ratio": 0.6665,
+      "total_posts": 20,
+      "engagement_rate": 1.4750739952883625
+    },
+    {
+      "subreddit": "technology",
+      "subscribers": 19953075,
+      "avg_score": 521,
+      "avg_comments": 60.2,
+      "avg_upvote_ratio": 0.758,
+      "total_posts": 20,
+      "engagement_rate": 3.0170788211842035
+    },
+    {
+      "subreddit": "personalfinance",
+      "subscribers": 21423041,
+      "avg_score": 0.7,
+      "avg_comments": 5.55,
+      "avg_upvote_ratio": 0.6295000000000001,
+      "total_posts": 20,
+      "engagement_rate": 0.25906686170278065
+    },
+    {
+      "subreddit": "stocks",
+      "subscribers": 8988873,
+      "avg_score": 65.1,
+      "avg_comments": 55.15,
+      "avg_upvote_ratio": 0.6695,
+      "total_posts": 20,
+      "engagement_rate": 6.1353631317296395
+    },
+    {
+      "subreddit": "buildapc",
+      "subscribers": 8331260,
+      "avg_score": 1.1,
+      "avg_comments": 1.8,
+      "avg_upvote_ratio": 0.9585,
+      "total_posts": 20,
+      "engagement_rate": 0.2160537541740385
+    },
+    {
+      "subreddit": "wallstreetbets",
+      "subscribers": 19547296,
+      "avg_score": 47.6,
+      "avg_comments": 167.25,
+      "avg_upvote_ratio": 0.828,
+      "total_posts": 20,
+      "engagement_rate": 8.55617063352394
+    },
+    {
+      "subreddit": "investing",
+      "subscribers": 3144108,
+      "avg_score": 6.2,
+      "avg_comments": 18,
+      "avg_upvote_ratio": 0.6055,
+      "total_posts": 20,
+      "engagement_rate": 5.724994179589251
+    },
+    {
+      "subreddit": "cryptocurrency",
+      "subscribers": 9937783,
+      "avg_score": 36.8,
+      "avg_comments": 16.6,
+      "avg_upvote_ratio": 0.777,
+      "total_posts": 20,
+      "engagement_rate": 1.6703926821505362
+    },
+    {
+      "subreddit": "crypto",
+      "subscribers": 333630,
+      "avg_score": 15.4,
+      "avg_comments": 3.25,
+      "avg_upvote_ratio": 0.873,
+      "total_posts": 20,
+      "engagement_rate": 9.741330216107665
+    }
+  ],
+  "summary": {
+    "total_categories": 0,
+    "total_subreddits_analyzed": 0,
+    "total_subscribers": 0
+  }
+}

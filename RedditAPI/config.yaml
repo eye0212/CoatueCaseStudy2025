@@ -1,0 +1,26 @@
+
+# How many popular subreddits to snapshot daily
+popular_limit: 1000
+
+# Subreddits for velocity and outbound link share
+target_subs:
+  - technology
+  - buildapc
+  - personalfinance
+  - BuyItForLife
+  - buildapcsales
+  - stocks
+  - investing
+
+# Keyword themes to screen in each target sub (boolean OR syntax recommended)
+keyword_themes:
+  - "AI PC OR Copilot"
+  - "GLP-1 OR semaglutide OR tirzepatide"
+  - "ETF OR index fund"
+  - "Reddit IPO OR $RDDT"
+  - "gaming laptop"
+  - "custom loop OR watercooling"
+
+# Politeness settings (seconds)
+sleep_between_calls: 0.25
+sleep_between_posts: 0.05

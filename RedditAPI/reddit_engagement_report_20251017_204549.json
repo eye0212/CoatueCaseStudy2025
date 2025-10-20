@@ -1,0 +1,740 @@
+{
+  "timestamp": "2025-10-17T20:45:49.181728",
+  "analysis_parameters": {
+    "sample_size": 20,
+    "categories_analyzed": 10
+  },
+  "platform_statistics": {
+    "total_subreddits_analyzed": 50,
+    "total_subscribers": 0,
+    "total_active_users": 0,
+    "categories": {
+      "Lifestyle": {
+        "subreddits": [
+          {
+            "name": "Home",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Lifestyle"
+          }
+        ],
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "avg_subscribers": 0.0,
+        "avg_active_users": 0.0,
+        "engagement_metrics": {}
+      },
+      "Social": {
+        "subreddits": [
+          {
+            "name": "AskReddit",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Social"
+          },
+          {
+            "name": "NoStupidQuestions",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Social"
+          }
+        ],
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "avg_subscribers": 0.0,
+        "avg_active_users": 0.0,
+        "engagement_metrics": {}
+      },
+      "Other": {
+        "subreddits": [
+          {
+            "name": "BaldursGate3",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "facepalm",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "interestingasfuck",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "Damnthatsinteresting",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "LivestreamFail",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "pics",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "Palworld",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "AmItheAsshole",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "mildlyinfuriating",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "Piracy",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "PeterExplainsTheJoke",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "funny",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "AITAH",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "Helldivers",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "leagueoflegends",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "pcmasterrace",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "Unexpected",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "todayilearned",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "nottheonion",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "memes",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "PublicFreakout",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "Wellthatsucks",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "OutOfTheLoop",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "OnePiece",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "BlackPeopleTwitter",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "HonkaiStarRail",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "SipsTea",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "Minecraft",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "mildlyinteresting",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "nfl",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "BeAmazed",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "nba",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "MapPorn",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "Overwatch",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "Genshin_Impact",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "classicwow",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          },
+          {
+            "name": "soccer",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Other"
+          }
+        ],
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "avg_subscribers": 0.0,
+        "avg_active_users": 0.0,
+        "engagement_metrics": {}
+      },
+      "Entertainment": {
+        "subreddits": [
+          {
+            "name": "movies",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Entertainment"
+          }
+        ],
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "avg_subscribers": 0.0,
+        "avg_active_users": 0.0,
+        "engagement_metrics": {}
+      },
+      "Gaming": {
+        "subreddits": [
+          {
+            "name": "gaming",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Gaming"
+          },
+          {
+            "name": "Steam",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Gaming"
+          }
+        ],
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "avg_subscribers": 0.0,
+        "avg_active_users": 0.0,
+        "engagement_metrics": {}
+      },
+      "News": {
+        "subreddits": [
+          {
+            "name": "worldnews",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "News"
+          },
+          {
+            "name": "news",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "News"
+          },
+          {
+            "name": "politics",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "News"
+          }
+        ],
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "avg_subscribers": 0.0,
+        "avg_active_users": 0.0,
+        "engagement_metrics": {}
+      },
+      "Finance": {
+        "subreddits": [
+          {
+            "name": "wallstreetbets",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Finance"
+          }
+        ],
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "avg_subscribers": 0.0,
+        "avg_active_users": 0.0,
+        "engagement_metrics": {}
+      },
+      "Science": {
+        "subreddits": [
+          {
+            "name": "explainlikeimfive",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Science"
+          }
+        ],
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "avg_subscribers": 0.0,
+        "avg_active_users": 0.0,
+        "engagement_metrics": {}
+      },
+      "Technology": {
+        "subreddits": [
+          {
+            "name": "buildapc",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Technology"
+          }
+        ],
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "avg_subscribers": 0.0,
+        "avg_active_users": 0.0,
+        "engagement_metrics": {}
+      },
+      "Hobbies": {
+        "subreddits": [
+          {
+            "name": "DIY",
+            "subscribers": 0,
+            "active_user_count": 0,
+            "over18": false,
+            "description": "",
+            "category": "Hobbies"
+          }
+        ],
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "avg_subscribers": 0.0,
+        "avg_active_users": 0.0,
+        "engagement_metrics": {}
+      }
+    },
+    "engagement_types": {
+      "high_engagement": [],
+      "medium_engagement": [],
+      "low_engagement": []
+    },
+    "top_subreddits": [
+      {
+        "name": "Home",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Lifestyle"
+      },
+      {
+        "name": "AskReddit",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Social"
+      },
+      {
+        "name": "NoStupidQuestions",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Social"
+      },
+      {
+        "name": "BaldursGate3",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "facepalm",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "interestingasfuck",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "Damnthatsinteresting",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "LivestreamFail",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "pics",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "Palworld",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "AmItheAsshole",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "mildlyinfuriating",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "Piracy",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "PeterExplainsTheJoke",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "funny",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "AITAH",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "movies",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Entertainment"
+      },
+      {
+        "name": "Helldivers",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Other"
+      },
+      {
+        "name": "gaming",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "Gaming"
+      },
+      {
+        "name": "worldnews",
+        "subscribers": 0,
+        "active_user_count": 0,
+        "over18": false,
+        "description": "",
+        "category": "News"
+      }
+    ],
+    "category_breakdown": {}
+  },
+  "engagement_patterns": {
+    "category_engagement": {
+      "Lifestyle": {
+        "avg_engagement_ratio": 0,
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "subreddit_count": 1
+      },
+      "Social": {
+        "avg_engagement_ratio": 0,
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "subreddit_count": 2
+      },
+      "Other": {
+        "avg_engagement_ratio": 0,
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "subreddit_count": 37
+      },
+      "Entertainment": {
+        "avg_engagement_ratio": 0,
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "subreddit_count": 1
+      },
+      "Gaming": {
+        "avg_engagement_ratio": 0,
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "subreddit_count": 2
+      },
+      "News": {
+        "avg_engagement_ratio": 0,
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "subreddit_count": 3
+      },
+      "Finance": {
+        "avg_engagement_ratio": 0,
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "subreddit_count": 1
+      },
+      "Science": {
+        "avg_engagement_ratio": 0,
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "subreddit_count": 1
+      },
+      "Technology": {
+        "avg_engagement_ratio": 0,
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "subreddit_count": 1
+      },
+      "Hobbies": {
+        "avg_engagement_ratio": 0,
+        "total_subscribers": 0,
+        "total_active_users": 0,
+        "subreddit_count": 1
+      }
+    },
+    "engagement_insights": [
+      "Highest engagement category: Lifestyle (0.000 ratio)"
+    ],
+    "recommendations": []
+  }
+}

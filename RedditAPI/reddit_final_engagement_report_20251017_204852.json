@@ -1,0 +1,2576 @@
+{
+  "timestamp": "2025-10-17T20:48:52.158504",
+  "analysis_type": "comprehensive_reddit_engagement",
+  "platform_summary": {
+    "total_subreddits": 58,
+    "total_subscribers": 756813632,
+    "avg_engagement_rate": 5.645796453441354,
+    "top_engagement_subreddits": [
+      {
+        "name": "xbox",
+        "subscribers": 992564,
+        "over18": false,
+        "recent_engagement": {
+          "avg_score": 194.15,
+          "avg_comments": 38.95,
+          "avg_upvote_ratio": 0.7895,
+          "total_posts_analyzed": 20
+        },
+        "hot_engagement": {
+          "avg_score": 334.4,
+          "avg_comments": 56.25,
+          "avg_upvote_ratio": 0.8855,
+          "total_posts_analyzed": 20
+        },
+        "engagement_rate": 39.241802039969215,
+        "category": "Gaming"
+      },
+      {
+        "name": "linux",
+        "subscribers": 1756316,
+        "over18": false,
+        "recent_engagement": {
+          "avg_score": 238.7,
+          "avg_comments": 47.05,
+          "avg_upvote_ratio": 0.7685,
+          "total_posts_analyzed": 20
+        },
+        "hot_engagement": {
+          "avg_score": 557.3,
+          "avg_comments": 93.85,
+          "avg_upvote_ratio": 0.8325,
+          "total_posts_analyzed": 20
+        },
+        "engagement_rate": 26.7890288535776,
+        "category": "Technology"
+      },
+      {
+        "name": "apple",
+        "subscribers": 6272882,
+        "over18": false,
+        "recent_engagement": {
+          "avg_score": 386.85,
+          "avg_comments": 158.1,
+          "avg_upvote_ratio": 0.861,
+          "total_posts_analyzed": 20
+        },
+        "hot_engagement": {
+          "avg_score": 485.1,
+          "avg_comments": 171.95,
+          "avg_upvote_ratio": 0.871,
+          "total_posts_analyzed": 20
+        },
+        "engagement_rate": 25.203726134175646,
+        "category": "Technology"
+      },
+      {
+        "name": "canada",
+        "subscribers": 4279447,
+        "over18": false,
+        "recent_engagement": {
+          "avg_score": 176.3,
+          "avg_comments": 94.75,
+          "avg_upvote_ratio": 0.7825,
+          "total_posts_analyzed": 20
+        },
+        "hot_engagement": {
+          "avg_score": 318.8,
+          "avg_comments": 97.7,
+          "avg_upvote_ratio": 0.876,
+          "total_posts_analyzed": 20
+        },
+        "engagement_rate": 22.140711171326576,
+        "category": "News"
+      },
+      {
+        "name": "fashion",
+        "subscribers": 799342,
+        "over18": false,
+        "recent_engagement": {
+          "avg_score": 43.65,
+          "avg_comments": 16.35,
+          "avg_upvote_ratio": 0.8965,
+          "total_posts_analyzed": 20
+        },
+        "hot_engagement": {
+          "avg_score": 108.35,
+          "avg_comments": 28.7,
+          "avg_upvote_ratio": 0.91,
+          "total_posts_analyzed": 20
+        },
+        "engagement_rate": 20.454323681227812,
+        "category": "Lifestyle"
+      },
+      {
+        "name": "nintendo",
+        "subscribers": 2316804,
+        "over18": false,
+        "recent_engagement": {
+          "avg_score": 109.65,
+          "avg_comments": 33.45,
+          "avg_upvote_ratio": 0.5569999999999999,
+          "total_posts_analyzed": 20
+        },
+        "hot_engagement": {
+          "avg_score": 687.05,
+          "avg_comments": 80.8,
+          "avg_upvote_ratio": 0.8215,
+          "total_posts_analyzed": 20
+        },
+        "engagement_rate": 14.437993028326956,
+        "category": "Gaming"
+      },
+      {
+        "name": "unpopularopinion",
+        "subscribers": 4772148,
+        "over18": false,
+        "recent_engagement": {
+          "avg_score": 55.25,
+          "avg_comments": 58.5,
+          "avg_upvote_ratio": 0.6325000000000001,
+          "total_posts_analyzed": 20
+        },
+        "hot_engagement": {
+          "avg_score": 331.05,
+          "avg_comments": 142.65,
+          "avg_upvote_ratio": 0.7325,
+          "total_posts_analyzed": 20
+        },
+        "engagement_rate": 12.258630704663812,
+        "category": "Social"
+      },
+      {
+        "name": "home",
+        "subscribers": 359116,
+        "over18": false,
+        "recent_engagement": {
+          "avg_score": 2.15,
+          "avg_comments": 4.25,
+          "avg_upvote_ratio": 0.873,
+          "total_posts_analyzed": 20
+        },
+        "hot_engagement": {
+          "avg_score": 39.5,
+          "avg_comments": 38.55,
+          "avg_upvote_ratio": 0.8855,
+          "total_posts_analyzed": 20
+        },
+        "engagement_rate": 11.834616112899454,
+        "category": "Lifestyle"
+      },
+      {
+        "name": "pcgaming",
+        "subscribers": 3848718,
+        "over18": false,
+        "recent_engagement": {
+          "avg_score": 158.2,
+          "avg_comments": 45,
+          "avg_upvote_ratio": 0.651,
+          "total_posts_analyzed": 20
+        },
+        "hot_engagement": {
+          "avg_score": 404.6,
+          "avg_comments": 76.8,
+          "avg_upvote_ratio": 0.8205,
+          "total_posts_analyzed": 20
+        },
+        "engagement_rate": 11.692205040743437,
+        "category": "Gaming"
+      },
+      {
+        "name": "android",
+        "subscribers": 3099433,
+        "over18": false,
+        "recent_engagement": {
+          "avg_score": 78.1,
+          "avg_comments": 30.7,
+          "avg_upvote_ratio": 0.7385,
+          "total_posts_analyzed": 20
+        },
+        "hot_engagement": {
+          "avg_score": 133.4,
+          "avg_comments": 44.55,
+          "avg_upvote_ratio": 0.848,
+          "total_posts_analyzed": 20
+        },
+        "engagement_rate": 9.905037469756564,
+        "category": "Technology"
+      }
+    ]
+  },
+  "category_statistics": {
+    "Technology": {
+      "subreddits": [
+        {
+          "name": "technology",
+          "subscribers": 19953072,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 522.95,
+            "avg_comments": 60.3,
+            "avg_upvote_ratio": 0.7535,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 5412.7,
+            "avg_comments": 294.2,
+            "avg_upvote_ratio": 0.9565,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 3.0220910344031235,
+          "category": "Technology"
+        },
+        {
+          "name": "programming",
+          "subscribers": 6786027,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 50.65,
+            "avg_comments": 12.05,
+            "avg_upvote_ratio": 0.4565,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 106.3,
+            "avg_comments": 35.4,
+            "avg_upvote_ratio": 0.6875,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 1.775707641599422,
+          "category": "Technology"
+        },
+        {
+          "name": "buildapc",
+          "subscribers": 8331260,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 1.1,
+            "avg_comments": 1.8,
+            "avg_upvote_ratio": 0.9585,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 36.1,
+            "avg_comments": 46.95,
+            "avg_upvote_ratio": 0.866,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 0.2160537541740385,
+          "category": "Technology"
+        },
+        {
+          "name": "apple",
+          "subscribers": 6272882,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 386.85,
+            "avg_comments": 158.1,
+            "avg_upvote_ratio": 0.861,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 485.1,
+            "avg_comments": 171.95,
+            "avg_upvote_ratio": 0.871,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 25.203726134175646,
+          "category": "Technology"
+        },
+        {
+          "name": "android",
+          "subscribers": 3099433,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 78.1,
+            "avg_comments": 30.7,
+            "avg_upvote_ratio": 0.7385,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 133.4,
+            "avg_comments": 44.55,
+            "avg_upvote_ratio": 0.848,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 9.905037469756564,
+          "category": "Technology"
+        },
+        {
+          "name": "linux",
+          "subscribers": 1756316,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 238.7,
+            "avg_comments": 47.05,
+            "avg_upvote_ratio": 0.7685,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 557.3,
+            "avg_comments": 93.85,
+            "avg_upvote_ratio": 0.8325,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 26.7890288535776,
+          "category": "Technology"
+        }
+      ],
+      "total_subscribers": 46198990,
+      "total_engagement_score": 1278.3500000000001,
+      "total_comments": 310.0,
+      "engagement_rates": [
+        3.0220910344031235,
+        1.775707641599422,
+        0.2160537541740385,
+        25.203726134175646,
+        9.905037469756564,
+        26.7890288535776
+      ],
+      "subreddit_count": 6
+    },
+    "Finance": {
+      "subreddits": [
+        {
+          "name": "personalfinance",
+          "subscribers": 21423039,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 0.7,
+            "avg_comments": 5.6,
+            "avg_upvote_ratio": 0.632,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 52,
+            "avg_comments": 40.5,
+            "avg_upvote_ratio": 0.8015,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 0.26140082179750496,
+          "category": "Finance"
+        },
+        {
+          "name": "stocks",
+          "subscribers": 8988874,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 68.6,
+            "avg_comments": 56.75,
+            "avg_upvote_ratio": 0.6835,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 221.85,
+            "avg_comments": 93.25,
+            "avg_upvote_ratio": 0.8505,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 6.313360271820475,
+          "category": "Finance"
+        },
+        {
+          "name": "investing",
+          "subscribers": 3144108,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 6.25,
+            "avg_comments": 18.1,
+            "avg_upvote_ratio": 0.61,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 89.75,
+            "avg_comments": 59.05,
+            "avg_upvote_ratio": 0.805,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 5.756799702809191,
+          "category": "Finance"
+        },
+        {
+          "name": "wallstreetbets",
+          "subscribers": 19547291,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 47.9,
+            "avg_comments": 167.65,
+            "avg_upvote_ratio": 0.829,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 935.55,
+            "avg_comments": 286.25,
+            "avg_upvote_ratio": 0.9055,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 8.576636015701613,
+          "category": "Finance"
+        },
+        {
+          "name": "cryptocurrency",
+          "subscribers": 9937781,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 36.8,
+            "avg_comments": 16.6,
+            "avg_upvote_ratio": 0.7815,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 646.7,
+            "avg_comments": 69.5,
+            "avg_upvote_ratio": 0.8855,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 1.6703930183206896,
+          "category": "Finance"
+        },
+        {
+          "name": "crypto",
+          "subscribers": 333630,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 14.7,
+            "avg_comments": 3.25,
+            "avg_upvote_ratio": 0.8375,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 28.2,
+            "avg_comments": 4.15,
+            "avg_upvote_ratio": 0.8655,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 9.741330216107665,
+          "category": "Finance"
+        }
+      ],
+      "total_subscribers": 63374723,
+      "total_engagement_score": 174.95,
+      "total_comments": 267.95000000000005,
+      "engagement_rates": [
+        0.26140082179750496,
+        6.313360271820475,
+        5.756799702809191,
+        8.576636015701613,
+        1.6703930183206896,
+        9.741330216107665
+      ],
+      "subreddit_count": 6
+    },
+    "Gaming": {
+      "subreddits": [
+        {
+          "name": "gaming",
+          "subscribers": 46980689,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 1008.4,
+            "avg_comments": 69.45,
+            "avg_upvote_ratio": 0.6655,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 3069.65,
+            "avg_comments": 147.7,
+            "avg_upvote_ratio": 0.883,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 1.4782669534710315,
+          "category": "Gaming"
+        },
+        {
+          "name": "pcgaming",
+          "subscribers": 3848718,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 158.2,
+            "avg_comments": 45,
+            "avg_upvote_ratio": 0.651,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 404.6,
+            "avg_comments": 76.8,
+            "avg_upvote_ratio": 0.8205,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 11.692205040743437,
+          "category": "Gaming"
+        },
+        {
+          "name": "nintendo",
+          "subscribers": 2316804,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 109.65,
+            "avg_comments": 33.45,
+            "avg_upvote_ratio": 0.5569999999999999,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 687.05,
+            "avg_comments": 80.8,
+            "avg_upvote_ratio": 0.8215,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 14.437993028326956,
+          "category": "Gaming"
+        },
+        {
+          "name": "playstation",
+          "subscribers": 1738420,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 8.4,
+            "avg_comments": 8.1,
+            "avg_upvote_ratio": 0.6625,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 486.6,
+            "avg_comments": 136.15,
+            "avg_upvote_ratio": 0.916,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 4.659403366275123,
+          "category": "Gaming"
+        },
+        {
+          "name": "xbox",
+          "subscribers": 992564,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 194.15,
+            "avg_comments": 38.95,
+            "avg_upvote_ratio": 0.7895,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 334.4,
+            "avg_comments": 56.25,
+            "avg_upvote_ratio": 0.8855,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 39.241802039969215,
+          "category": "Gaming"
+        },
+        {
+          "name": "steam",
+          "subscribers": 5004393,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 5.3,
+            "avg_comments": 5.15,
+            "avg_upvote_ratio": 0.41400000000000003,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 3522.6,
+            "avg_comments": 86.85,
+            "avg_upvote_ratio": 0.8605,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 1.0290958363981406,
+          "category": "Gaming"
+        }
+      ],
+      "total_subscribers": 60881588,
+      "total_engagement_score": 1484.1000000000001,
+      "total_comments": 200.1,
+      "engagement_rates": [
+        1.4782669534710315,
+        11.692205040743437,
+        14.437993028326956,
+        4.659403366275123,
+        39.241802039969215,
+        1.0290958363981406
+      ],
+      "subreddit_count": 6
+    },
+    "Entertainment": {
+      "subreddits": [
+        {
+          "name": "movies",
+          "subscribers": 37022838,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 20.2,
+            "avg_comments": 19.85,
+            "avg_upvote_ratio": 0.5275,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 719.8,
+            "avg_comments": 101.65,
+            "avg_upvote_ratio": 0.8845,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 0.5361555480970962,
+          "category": "Entertainment"
+        },
+        {
+          "name": "television",
+          "subscribers": 17923501,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 101.6,
+            "avg_comments": 92.6,
+            "avg_upvote_ratio": 0.5805,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 1209.15,
+            "avg_comments": 306.65,
+            "avg_upvote_ratio": 0.8765000000000001,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 5.1664013632158134,
+          "category": "Entertainment"
+        },
+        {
+          "name": "music",
+          "subscribers": 38231737,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 2.75,
+            "avg_comments": 1.7,
+            "avg_upvote_ratio": 0.8295,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 4964.25,
+            "avg_comments": 313.3,
+            "avg_upvote_ratio": 0.9279999999999999,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 0.04446567520591596,
+          "category": "Entertainment"
+        },
+        {
+          "name": "books",
+          "subscribers": 26909358,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 684.5,
+            "avg_comments": 104.25,
+            "avg_upvote_ratio": 0.7885,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 1043.1,
+            "avg_comments": 193.6,
+            "avg_upvote_ratio": 0.8495,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 3.8741169521770082,
+          "category": "Entertainment"
+        },
+        {
+          "name": "comics",
+          "subscribers": 3639780,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 105.6,
+            "avg_comments": 3.6,
+            "avg_upvote_ratio": 0.856,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 6966.95,
+            "avg_comments": 94.5,
+            "avg_upvote_ratio": 0.9595,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 0.9890707680134514,
+          "category": "Entertainment"
+        },
+        {
+          "name": "anime",
+          "subscribers": 14048668,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 44.45,
+            "avg_comments": 16.35,
+            "avg_upvote_ratio": 0.611,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 346.55,
+            "avg_comments": 115.25,
+            "avg_upvote_ratio": 0.923,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 1.1638114019065724,
+          "category": "Entertainment"
+        }
+      ],
+      "total_subscribers": 137775882,
+      "total_engagement_score": 959.1,
+      "total_comments": 238.34999999999997,
+      "engagement_rates": [
+        0.5361555480970962,
+        5.1664013632158134,
+        0.04446567520591596,
+        3.8741169521770082,
+        0.9890707680134514,
+        1.1638114019065724
+      ],
+      "subreddit_count": 6
+    },
+    "Lifestyle": {
+      "subreddits": [
+        {
+          "name": "fitness",
+          "subscribers": 12426117,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 22.35,
+            "avg_comments": 83.2,
+            "avg_upvote_ratio": 0.8535,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 116.3,
+            "avg_comments": 78.85,
+            "avg_upvote_ratio": 0.875,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 6.695575134211275,
+          "category": "Lifestyle"
+        },
+        {
+          "name": "food",
+          "subscribers": 24359991,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 18.25,
+            "avg_comments": 3.9,
+            "avg_upvote_ratio": 0.867,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 343.25,
+            "avg_comments": 17.2,
+            "avg_upvote_ratio": 0.9349999999999999,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 0.16009858131720983,
+          "category": "Lifestyle"
+        },
+        {
+          "name": "travel",
+          "subscribers": 14033374,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 1.45,
+            "avg_comments": 5.05,
+            "avg_upvote_ratio": 0.5235,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 702.45,
+            "avg_comments": 101.9,
+            "avg_upvote_ratio": 0.9075,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 0.35985643937088824,
+          "category": "Lifestyle"
+        },
+        {
+          "name": "fashion",
+          "subscribers": 799342,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 43.65,
+            "avg_comments": 16.35,
+            "avg_upvote_ratio": 0.8965,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 108.35,
+            "avg_comments": 28.7,
+            "avg_upvote_ratio": 0.91,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 20.454323681227812,
+          "category": "Lifestyle"
+        },
+        {
+          "name": "beauty",
+          "subscribers": 1801885,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 1.05,
+            "avg_comments": 3.7,
+            "avg_upvote_ratio": 0.712,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 96.6,
+            "avg_comments": 37.3,
+            "avg_upvote_ratio": 0.844,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 2.053405184015628,
+          "category": "Lifestyle"
+        },
+        {
+          "name": "home",
+          "subscribers": 359116,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 2.15,
+            "avg_comments": 4.25,
+            "avg_upvote_ratio": 0.873,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 39.5,
+            "avg_comments": 38.55,
+            "avg_upvote_ratio": 0.8855,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 11.834616112899454,
+          "category": "Lifestyle"
+        },
+        {
+          "name": "cooking",
+          "subscribers": 5900662,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 5.15,
+            "avg_comments": 16.65,
+            "avg_upvote_ratio": 0.8495,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 72.15,
+            "avg_comments": 99.35,
+            "avg_upvote_ratio": 0.818,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 2.8217172920597724,
+          "category": "Lifestyle"
+        },
+        {
+          "name": "fitness",
+          "subscribers": 12426117,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 22.75,
+            "avg_comments": 83.2,
+            "avg_upvote_ratio": 0.8745,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 115.4,
+            "avg_comments": 78.85,
+            "avg_upvote_ratio": 0.8765,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 6.695575134211275,
+          "category": "Lifestyle"
+        }
+      ],
+      "total_subscribers": 72106604,
+      "total_engagement_score": 116.80000000000001,
+      "total_comments": 216.3,
+      "engagement_rates": [
+        6.695575134211275,
+        0.16009858131720983,
+        0.35985643937088824,
+        20.454323681227812,
+        2.053405184015628,
+        11.834616112899454,
+        2.8217172920597724,
+        6.695575134211275
+      ],
+      "subreddit_count": 8
+    },
+    "News": {
+      "subreddits": [
+        {
+          "name": "news",
+          "subscribers": 30946299,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 3143.5,
+            "avg_comments": 221.75,
+            "avg_upvote_ratio": 0.9495,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 7822.35,
+            "avg_comments": 465.05,
+            "avg_upvote_ratio": 0.9605,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 7.165638773153455,
+          "category": "News"
+        },
+        {
+          "name": "worldnews",
+          "subscribers": 46858120,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 1942.4,
+            "avg_comments": 146.8,
+            "avg_upvote_ratio": 0.91,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 3992.45,
+            "avg_comments": 254.75,
+            "avg_upvote_ratio": 0.9525,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 3.1328614976443787,
+          "category": "News"
+        },
+        {
+          "name": "politics",
+          "subscribers": 8914948,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 29.9,
+            "avg_comments": 15.4,
+            "avg_upvote_ratio": 0.798,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 7727.2,
+            "avg_comments": 428.7,
+            "avg_upvote_ratio": 0.9735,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 1.7274357629455608,
+          "category": "News"
+        },
+        {
+          "name": "europe",
+          "subscribers": 11433018,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 325.1,
+            "avg_comments": 32.05,
+            "avg_upvote_ratio": 0.8125,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 3498.25,
+            "avg_comments": 216.5,
+            "avg_upvote_ratio": 0.9595,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 2.8032843121562476,
+          "category": "News"
+        },
+        {
+          "name": "canada",
+          "subscribers": 4279447,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 176.3,
+            "avg_comments": 94.75,
+            "avg_upvote_ratio": 0.7825,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 318.8,
+            "avg_comments": 97.7,
+            "avg_upvote_ratio": 0.876,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 22.140711171326576,
+          "category": "News"
+        }
+      ],
+      "total_subscribers": 102431832,
+      "total_engagement_score": 5617.2,
+      "total_comments": 510.75,
+      "engagement_rates": [
+        7.165638773153455,
+        3.1328614976443787,
+        1.7274357629455608,
+        2.8032843121562476,
+        22.140711171326576
+      ],
+      "subreddit_count": 5
+    },
+    "Science": {
+      "subreddits": [
+        {
+          "name": "science",
+          "subscribers": 34271288,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 540.6,
+            "avg_comments": 51.7,
+            "avg_upvote_ratio": 0.9035,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 985.55,
+            "avg_comments": 71.45,
+            "avg_upvote_ratio": 0.9339999999999999,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 1.5085514148169745,
+          "category": "Science"
+        },
+        {
+          "name": "askscience",
+          "subscribers": 26174604,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 179.45,
+            "avg_comments": 39.4,
+            "avg_upvote_ratio": 0.7585000000000001,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 267.1,
+            "avg_comments": 36.7,
+            "avg_upvote_ratio": 0.779,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 1.5052758773351451,
+          "category": "Science"
+        },
+        {
+          "name": "explainlikeimfive",
+          "subscribers": 23292203,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 40.35,
+            "avg_comments": 37.6,
+            "avg_upvote_ratio": 0.5075000000000001,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 387.95,
+            "avg_comments": 116.65,
+            "avg_upvote_ratio": 0.7825,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 1.6142740985041217,
+          "category": "Science"
+        },
+        {
+          "name": "space",
+          "subscribers": 27766076,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 397.1,
+            "avg_comments": 30.7,
+            "avg_upvote_ratio": 0.8355,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 443.35,
+            "avg_comments": 37.1,
+            "avg_upvote_ratio": 0.869,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 1.1056657771879614,
+          "category": "Science"
+        },
+        {
+          "name": "biology",
+          "subscribers": 5449726,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 16.25,
+            "avg_comments": 9.3,
+            "avg_upvote_ratio": 0.8065,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 406.65,
+            "avg_comments": 32.7,
+            "avg_upvote_ratio": 0.8435,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 1.7065078134203444,
+          "category": "Science"
+        },
+        {
+          "name": "chemistry",
+          "subscribers": 3827793,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 51.85,
+            "avg_comments": 15.85,
+            "avg_upvote_ratio": 0.735,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 62.1,
+            "avg_comments": 19.1,
+            "avg_upvote_ratio": 0.82,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 4.140767277645369,
+          "category": "Science"
+        }
+      ],
+      "total_subscribers": 120781690,
+      "total_engagement_score": 1225.6,
+      "total_comments": 184.54999999999998,
+      "engagement_rates": [
+        1.5085514148169745,
+        1.5052758773351451,
+        1.6142740985041217,
+        1.1056657771879614,
+        1.7065078134203444,
+        4.140767277645369
+      ],
+      "subreddit_count": 6
+    },
+    "Social": {
+      "subreddits": [
+        {
+          "name": "askreddit",
+          "subscribers": 57033107,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 0.95,
+            "avg_comments": 1.8,
+            "avg_upvote_ratio": 0.904,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 610.35,
+            "avg_comments": 785.75,
+            "avg_upvote_ratio": 0.9075,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 0.03156061618736641,
+          "category": "Social"
+        },
+        {
+          "name": "nostupidquestions",
+          "subscribers": 6602692,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 0.95,
+            "avg_comments": 3.9,
+            "avg_upvote_ratio": 0.7925,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 471.1,
+            "avg_comments": 388.05,
+            "avg_upvote_ratio": 0.8605,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 0.5906681698919167,
+          "category": "Social"
+        },
+        {
+          "name": "casualconversation",
+          "subscribers": 2655402,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 5.7,
+            "avg_comments": 11.4,
+            "avg_upvote_ratio": 0.798,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 266.1,
+            "avg_comments": 205.85,
+            "avg_upvote_ratio": 0.9275,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 4.293135276692569,
+          "category": "Social"
+        },
+        {
+          "name": "unpopularopinion",
+          "subscribers": 4772148,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 55.25,
+            "avg_comments": 58.5,
+            "avg_upvote_ratio": 0.6325000000000001,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 331.05,
+            "avg_comments": 142.65,
+            "avg_upvote_ratio": 0.7325,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 12.258630704663812,
+          "category": "Social"
+        }
+      ],
+      "total_subscribers": 71063349,
+      "total_engagement_score": 62.85,
+      "total_comments": 75.6,
+      "engagement_rates": [
+        0.03156061618736641,
+        0.5906681698919167,
+        4.293135276692569,
+        12.258630704663812
+      ],
+      "subreddit_count": 4
+    },
+    "Hobbies": {
+      "subreddits": [
+        {
+          "name": "DIY",
+          "subscribers": 27329961,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 3.9,
+            "avg_comments": 7.05,
+            "avg_upvote_ratio": 0.585,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 11.95,
+            "avg_comments": 14.05,
+            "avg_upvote_ratio": 0.6885,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 0.2579586557038995,
+          "category": "Hobbies"
+        },
+        {
+          "name": "photography",
+          "subscribers": 5517229,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 9.15,
+            "avg_comments": 35.05,
+            "avg_upvote_ratio": 0.6779999999999999,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 33.55,
+            "avg_comments": 48.25,
+            "avg_upvote_ratio": 0.7665,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 6.3528267541550285,
+          "category": "Hobbies"
+        },
+        {
+          "name": "art",
+          "subscribers": 22266019,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 37.4,
+            "avg_comments": 1.85,
+            "avg_upvote_ratio": 0.9225,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 460.25,
+            "avg_comments": 12.9,
+            "avg_upvote_ratio": 0.944,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 0.08308624905062732,
+          "category": "Hobbies"
+        },
+        {
+          "name": "writing",
+          "subscribers": 3253454,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 5,
+            "avg_comments": 11.65,
+            "avg_upvote_ratio": 0.626,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 42.95,
+            "avg_comments": 42.25,
+            "avg_upvote_ratio": 0.8475,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 3.580809810127944,
+          "category": "Hobbies"
+        },
+        {
+          "name": "boardgames",
+          "subscribers": 5366017,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 39.7,
+            "avg_comments": 17.05,
+            "avg_upvote_ratio": 0.548,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 92.9,
+            "avg_comments": 40.95,
+            "avg_upvote_ratio": 0.8275,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 3.177403276955701,
+          "category": "Hobbies"
+        },
+        {
+          "name": "woodworking",
+          "subscribers": 6062834,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 8.35,
+            "avg_comments": 5.5,
+            "avg_upvote_ratio": 0.95,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 629,
+            "avg_comments": 370.4,
+            "avg_upvote_ratio": 0.9675,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 0.9071665165168633,
+          "category": "Hobbies"
+        }
+      ],
+      "total_subscribers": 69795514,
+      "total_engagement_score": 103.5,
+      "total_comments": 78.14999999999999,
+      "engagement_rates": [
+        0.2579586557038995,
+        6.3528267541550285,
+        0.08308624905062732,
+        3.580809810127944,
+        3.177403276955701,
+        0.9071665165168633
+      ],
+      "subreddit_count": 6
+    },
+    "Health": {
+      "subreddits": [
+        {
+          "name": "loseit",
+          "subscribers": 4075599,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 32,
+            "avg_comments": 12.75,
+            "avg_upvote_ratio": 0.8245,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 75.2,
+            "avg_comments": 20.8,
+            "avg_upvote_ratio": 0.8945,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 3.128374503968619,
+          "category": "Health"
+        },
+        {
+          "name": "nutrition",
+          "subscribers": 5852541,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 14.45,
+            "avg_comments": 21.55,
+            "avg_upvote_ratio": 0.782,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 15.8,
+            "avg_comments": 20.2,
+            "avg_upvote_ratio": 0.782,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 3.682161303953275,
+          "category": "Health"
+        },
+        {
+          "name": "mentalhealth",
+          "subscribers": 573072,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 1.2,
+            "avg_comments": 1.2,
+            "avg_upvote_ratio": 0.983,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 35.55,
+            "avg_comments": 20.5,
+            "avg_upvote_ratio": 0.9575,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 2.093977720077058,
+          "category": "Health"
+        },
+        {
+          "name": "depression",
+          "subscribers": 1107699,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 2.45,
+            "avg_comments": 2.45,
+            "avg_upvote_ratio": 0.9435,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 149.85,
+            "avg_comments": 29.45,
+            "avg_upvote_ratio": 0.946,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 2.211792192644392,
+          "category": "Health"
+        },
+        {
+          "name": "anxiety",
+          "subscribers": 794549,
+          "over18": false,
+          "recent_engagement": {
+            "avg_score": 1.5,
+            "avg_comments": 1.3,
+            "avg_upvote_ratio": 0.983,
+            "total_posts_analyzed": 20
+          },
+          "hot_engagement": {
+            "avg_score": 23,
+            "avg_comments": 9.7,
+            "avg_upvote_ratio": 0.9595,
+            "total_posts_analyzed": 20
+          },
+          "engagement_rate": 1.6361483055167145,
+          "category": "Health"
+        }
+      ],
+      "total_subscribers": 12403460,
+      "total_engagement_score": 51.60000000000001,
+      "total_comments": 39.25,
+      "engagement_rates": [
+        3.128374503968619,
+        3.682161303953275,
+        2.093977720077058,
+        2.211792192644392,
+        1.6361483055167145
+      ],
+      "subreddit_count": 5
+    }
+  },
+  "detailed_subreddit_data": [
+    {
+      "name": "technology",
+      "subscribers": 19953072,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 522.95,
+        "avg_comments": 60.3,
+        "avg_upvote_ratio": 0.7535,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 5412.7,
+        "avg_comments": 294.2,
+        "avg_upvote_ratio": 0.9565,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 3.0220910344031235,
+      "category": "Technology"
+    },
+    {
+      "name": "programming",
+      "subscribers": 6786027,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 50.65,
+        "avg_comments": 12.05,
+        "avg_upvote_ratio": 0.4565,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 106.3,
+        "avg_comments": 35.4,
+        "avg_upvote_ratio": 0.6875,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 1.775707641599422,
+      "category": "Technology"
+    },
+    {
+      "name": "buildapc",
+      "subscribers": 8331260,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 1.1,
+        "avg_comments": 1.8,
+        "avg_upvote_ratio": 0.9585,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 36.1,
+        "avg_comments": 46.95,
+        "avg_upvote_ratio": 0.866,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 0.2160537541740385,
+      "category": "Technology"
+    },
+    {
+      "name": "apple",
+      "subscribers": 6272882,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 386.85,
+        "avg_comments": 158.1,
+        "avg_upvote_ratio": 0.861,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 485.1,
+        "avg_comments": 171.95,
+        "avg_upvote_ratio": 0.871,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 25.203726134175646,
+      "category": "Technology"
+    },
+    {
+      "name": "android",
+      "subscribers": 3099433,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 78.1,
+        "avg_comments": 30.7,
+        "avg_upvote_ratio": 0.7385,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 133.4,
+        "avg_comments": 44.55,
+        "avg_upvote_ratio": 0.848,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 9.905037469756564,
+      "category": "Technology"
+    },
+    {
+      "name": "linux",
+      "subscribers": 1756316,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 238.7,
+        "avg_comments": 47.05,
+        "avg_upvote_ratio": 0.7685,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 557.3,
+        "avg_comments": 93.85,
+        "avg_upvote_ratio": 0.8325,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 26.7890288535776,
+      "category": "Technology"
+    },
+    {
+      "name": "personalfinance",
+      "subscribers": 21423039,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 0.7,
+        "avg_comments": 5.6,
+        "avg_upvote_ratio": 0.632,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 52,
+        "avg_comments": 40.5,
+        "avg_upvote_ratio": 0.8015,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 0.26140082179750496,
+      "category": "Finance"
+    },
+    {
+      "name": "stocks",
+      "subscribers": 8988874,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 68.6,
+        "avg_comments": 56.75,
+        "avg_upvote_ratio": 0.6835,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 221.85,
+        "avg_comments": 93.25,
+        "avg_upvote_ratio": 0.8505,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 6.313360271820475,
+      "category": "Finance"
+    },
+    {
+      "name": "investing",
+      "subscribers": 3144108,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 6.25,
+        "avg_comments": 18.1,
+        "avg_upvote_ratio": 0.61,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 89.75,
+        "avg_comments": 59.05,
+        "avg_upvote_ratio": 0.805,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 5.756799702809191,
+      "category": "Finance"
+    },
+    {
+      "name": "wallstreetbets",
+      "subscribers": 19547291,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 47.9,
+        "avg_comments": 167.65,
+        "avg_upvote_ratio": 0.829,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 935.55,
+        "avg_comments": 286.25,
+        "avg_upvote_ratio": 0.9055,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 8.576636015701613,
+      "category": "Finance"
+    },
+    {
+      "name": "cryptocurrency",
+      "subscribers": 9937781,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 36.8,
+        "avg_comments": 16.6,
+        "avg_upvote_ratio": 0.7815,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 646.7,
+        "avg_comments": 69.5,
+        "avg_upvote_ratio": 0.8855,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 1.6703930183206896,
+      "category": "Finance"
+    },
+    {
+      "name": "crypto",
+      "subscribers": 333630,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 14.7,
+        "avg_comments": 3.25,
+        "avg_upvote_ratio": 0.8375,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 28.2,
+        "avg_comments": 4.15,
+        "avg_upvote_ratio": 0.8655,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 9.741330216107665,
+      "category": "Finance"
+    },
+    {
+      "name": "gaming",
+      "subscribers": 46980689,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 1008.4,
+        "avg_comments": 69.45,
+        "avg_upvote_ratio": 0.6655,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 3069.65,
+        "avg_comments": 147.7,
+        "avg_upvote_ratio": 0.883,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 1.4782669534710315,
+      "category": "Gaming"
+    },
+    {
+      "name": "pcgaming",
+      "subscribers": 3848718,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 158.2,
+        "avg_comments": 45,
+        "avg_upvote_ratio": 0.651,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 404.6,
+        "avg_comments": 76.8,
+        "avg_upvote_ratio": 0.8205,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 11.692205040743437,
+      "category": "Gaming"
+    },
+    {
+      "name": "nintendo",
+      "subscribers": 2316804,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 109.65,
+        "avg_comments": 33.45,
+        "avg_upvote_ratio": 0.5569999999999999,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 687.05,
+        "avg_comments": 80.8,
+        "avg_upvote_ratio": 0.8215,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 14.437993028326956,
+      "category": "Gaming"
+    },
+    {
+      "name": "playstation",
+      "subscribers": 1738420,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 8.4,
+        "avg_comments": 8.1,
+        "avg_upvote_ratio": 0.6625,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 486.6,
+        "avg_comments": 136.15,
+        "avg_upvote_ratio": 0.916,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 4.659403366275123,
+      "category": "Gaming"
+    },
+    {
+      "name": "xbox",
+      "subscribers": 992564,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 194.15,
+        "avg_comments": 38.95,
+        "avg_upvote_ratio": 0.7895,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 334.4,
+        "avg_comments": 56.25,
+        "avg_upvote_ratio": 0.8855,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 39.241802039969215,
+      "category": "Gaming"
+    },
+    {
+      "name": "steam",
+      "subscribers": 5004393,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 5.3,
+        "avg_comments": 5.15,
+        "avg_upvote_ratio": 0.41400000000000003,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 3522.6,
+        "avg_comments": 86.85,
+        "avg_upvote_ratio": 0.8605,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 1.0290958363981406,
+      "category": "Gaming"
+    },
+    {
+      "name": "movies",
+      "subscribers": 37022838,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 20.2,
+        "avg_comments": 19.85,
+        "avg_upvote_ratio": 0.5275,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 719.8,
+        "avg_comments": 101.65,
+        "avg_upvote_ratio": 0.8845,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 0.5361555480970962,
+      "category": "Entertainment"
+    },
+    {
+      "name": "television",
+      "subscribers": 17923501,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 101.6,
+        "avg_comments": 92.6,
+        "avg_upvote_ratio": 0.5805,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 1209.15,
+        "avg_comments": 306.65,
+        "avg_upvote_ratio": 0.8765000000000001,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 5.1664013632158134,
+      "category": "Entertainment"
+    },
+    {
+      "name": "music",
+      "subscribers": 38231737,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 2.75,
+        "avg_comments": 1.7,
+        "avg_upvote_ratio": 0.8295,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 4964.25,
+        "avg_comments": 313.3,
+        "avg_upvote_ratio": 0.9279999999999999,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 0.04446567520591596,
+      "category": "Entertainment"
+    },
+    {
+      "name": "books",
+      "subscribers": 26909358,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 684.5,
+        "avg_comments": 104.25,
+        "avg_upvote_ratio": 0.7885,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 1043.1,
+        "avg_comments": 193.6,
+        "avg_upvote_ratio": 0.8495,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 3.8741169521770082,
+      "category": "Entertainment"
+    },
+    {
+      "name": "comics",
+      "subscribers": 3639780,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 105.6,
+        "avg_comments": 3.6,
+        "avg_upvote_ratio": 0.856,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 6966.95,
+        "avg_comments": 94.5,
+        "avg_upvote_ratio": 0.9595,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 0.9890707680134514,
+      "category": "Entertainment"
+    },
+    {
+      "name": "anime",
+      "subscribers": 14048668,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 44.45,
+        "avg_comments": 16.35,
+        "avg_upvote_ratio": 0.611,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 346.55,
+        "avg_comments": 115.25,
+        "avg_upvote_ratio": 0.923,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 1.1638114019065724,
+      "category": "Entertainment"
+    },
+    {
+      "name": "fitness",
+      "subscribers": 12426117,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 22.35,
+        "avg_comments": 83.2,
+        "avg_upvote_ratio": 0.8535,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 116.3,
+        "avg_comments": 78.85,
+        "avg_upvote_ratio": 0.875,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 6.695575134211275,
+      "category": "Lifestyle"
+    },
+    {
+      "name": "food",
+      "subscribers": 24359991,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 18.25,
+        "avg_comments": 3.9,
+        "avg_upvote_ratio": 0.867,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 343.25,
+        "avg_comments": 17.2,
+        "avg_upvote_ratio": 0.9349999999999999,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 0.16009858131720983,
+      "category": "Lifestyle"
+    },
+    {
+      "name": "travel",
+      "subscribers": 14033374,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 1.45,
+        "avg_comments": 5.05,
+        "avg_upvote_ratio": 0.5235,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 702.45,
+        "avg_comments": 101.9,
+        "avg_upvote_ratio": 0.9075,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 0.35985643937088824,
+      "category": "Lifestyle"
+    },
+    {
+      "name": "fashion",
+      "subscribers": 799342,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 43.65,
+        "avg_comments": 16.35,
+        "avg_upvote_ratio": 0.8965,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 108.35,
+        "avg_comments": 28.7,
+        "avg_upvote_ratio": 0.91,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 20.454323681227812,
+      "category": "Lifestyle"
+    },
+    {
+      "name": "beauty",
+      "subscribers": 1801885,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 1.05,
+        "avg_comments": 3.7,
+        "avg_upvote_ratio": 0.712,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 96.6,
+        "avg_comments": 37.3,
+        "avg_upvote_ratio": 0.844,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 2.053405184015628,
+      "category": "Lifestyle"
+    },
+    {
+      "name": "home",
+      "subscribers": 359116,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 2.15,
+        "avg_comments": 4.25,
+        "avg_upvote_ratio": 0.873,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 39.5,
+        "avg_comments": 38.55,
+        "avg_upvote_ratio": 0.8855,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 11.834616112899454,
+      "category": "Lifestyle"
+    },
+    {
+      "name": "cooking",
+      "subscribers": 5900662,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 5.15,
+        "avg_comments": 16.65,
+        "avg_upvote_ratio": 0.8495,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 72.15,
+        "avg_comments": 99.35,
+        "avg_upvote_ratio": 0.818,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 2.8217172920597724,
+      "category": "Lifestyle"
+    },
+    {
+      "name": "news",
+      "subscribers": 30946299,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 3143.5,
+        "avg_comments": 221.75,
+        "avg_upvote_ratio": 0.9495,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 7822.35,
+        "avg_comments": 465.05,
+        "avg_upvote_ratio": 0.9605,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 7.165638773153455,
+      "category": "News"
+    },
+    {
+      "name": "worldnews",
+      "subscribers": 46858120,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 1942.4,
+        "avg_comments": 146.8,
+        "avg_upvote_ratio": 0.91,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 3992.45,
+        "avg_comments": 254.75,
+        "avg_upvote_ratio": 0.9525,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 3.1328614976443787,
+      "category": "News"
+    },
+    {
+      "name": "politics",
+      "subscribers": 8914948,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 29.9,
+        "avg_comments": 15.4,
+        "avg_upvote_ratio": 0.798,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 7727.2,
+        "avg_comments": 428.7,
+        "avg_upvote_ratio": 0.9735,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 1.7274357629455608,
+      "category": "News"
+    },
+    {
+      "name": "europe",
+      "subscribers": 11433018,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 325.1,
+        "avg_comments": 32.05,
+        "avg_upvote_ratio": 0.8125,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 3498.25,
+        "avg_comments": 216.5,
+        "avg_upvote_ratio": 0.9595,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 2.8032843121562476,
+      "category": "News"
+    },
+    {
+      "name": "canada",
+      "subscribers": 4279447,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 176.3,
+        "avg_comments": 94.75,
+        "avg_upvote_ratio": 0.7825,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 318.8,
+        "avg_comments": 97.7,
+        "avg_upvote_ratio": 0.876,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 22.140711171326576,
+      "category": "News"
+    },
+    {
+      "name": "science",
+      "subscribers": 34271288,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 540.6,
+        "avg_comments": 51.7,
+        "avg_upvote_ratio": 0.9035,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 985.55,
+        "avg_comments": 71.45,
+        "avg_upvote_ratio": 0.9339999999999999,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 1.5085514148169745,
+      "category": "Science"
+    },
+    {
+      "name": "askscience",
+      "subscribers": 26174604,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 179.45,
+        "avg_comments": 39.4,
+        "avg_upvote_ratio": 0.7585000000000001,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 267.1,
+        "avg_comments": 36.7,
+        "avg_upvote_ratio": 0.779,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 1.5052758773351451,
+      "category": "Science"
+    },
+    {
+      "name": "explainlikeimfive",
+      "subscribers": 23292203,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 40.35,
+        "avg_comments": 37.6,
+        "avg_upvote_ratio": 0.5075000000000001,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 387.95,
+        "avg_comments": 116.65,
+        "avg_upvote_ratio": 0.7825,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 1.6142740985041217,
+      "category": "Science"
+    },
+    {
+      "name": "space",
+      "subscribers": 27766076,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 397.1,
+        "avg_comments": 30.7,
+        "avg_upvote_ratio": 0.8355,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 443.35,
+        "avg_comments": 37.1,
+        "avg_upvote_ratio": 0.869,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 1.1056657771879614,
+      "category": "Science"
+    },
+    {
+      "name": "biology",
+      "subscribers": 5449726,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 16.25,
+        "avg_comments": 9.3,
+        "avg_upvote_ratio": 0.8065,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 406.65,
+        "avg_comments": 32.7,
+        "avg_upvote_ratio": 0.8435,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 1.7065078134203444,
+      "category": "Science"
+    },
+    {
+      "name": "chemistry",
+      "subscribers": 3827793,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 51.85,
+        "avg_comments": 15.85,
+        "avg_upvote_ratio": 0.735,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 62.1,
+        "avg_comments": 19.1,
+        "avg_upvote_ratio": 0.82,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 4.140767277645369,
+      "category": "Science"
+    },
+    {
+      "name": "askreddit",
+      "subscribers": 57033107,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 0.95,
+        "avg_comments": 1.8,
+        "avg_upvote_ratio": 0.904,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 610.35,
+        "avg_comments": 785.75,
+        "avg_upvote_ratio": 0.9075,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 0.03156061618736641,
+      "category": "Social"
+    },
+    {
+      "name": "nostupidquestions",
+      "subscribers": 6602692,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 0.95,
+        "avg_comments": 3.9,
+        "avg_upvote_ratio": 0.7925,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 471.1,
+        "avg_comments": 388.05,
+        "avg_upvote_ratio": 0.8605,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 0.5906681698919167,
+      "category": "Social"
+    },
+    {
+      "name": "casualconversation",
+      "subscribers": 2655402,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 5.7,
+        "avg_comments": 11.4,
+        "avg_upvote_ratio": 0.798,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 266.1,
+        "avg_comments": 205.85,
+        "avg_upvote_ratio": 0.9275,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 4.293135276692569,
+      "category": "Social"
+    },
+    {
+      "name": "unpopularopinion",
+      "subscribers": 4772148,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 55.25,
+        "avg_comments": 58.5,
+        "avg_upvote_ratio": 0.6325000000000001,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 331.05,
+        "avg_comments": 142.65,
+        "avg_upvote_ratio": 0.7325,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 12.258630704663812,
+      "category": "Social"
+    },
+    {
+      "name": "DIY",
+      "subscribers": 27329961,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 3.9,
+        "avg_comments": 7.05,
+        "avg_upvote_ratio": 0.585,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 11.95,
+        "avg_comments": 14.05,
+        "avg_upvote_ratio": 0.6885,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 0.2579586557038995,
+      "category": "Hobbies"
+    },
+    {
+      "name": "photography",
+      "subscribers": 5517229,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 9.15,
+        "avg_comments": 35.05,
+        "avg_upvote_ratio": 0.6779999999999999,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 33.55,
+        "avg_comments": 48.25,
+        "avg_upvote_ratio": 0.7665,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 6.3528267541550285,
+      "category": "Hobbies"
+    },
+    {
+      "name": "art",
+      "subscribers": 22266019,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 37.4,
+        "avg_comments": 1.85,
+        "avg_upvote_ratio": 0.9225,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 460.25,
+        "avg_comments": 12.9,
+        "avg_upvote_ratio": 0.944,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 0.08308624905062732,
+      "category": "Hobbies"
+    },
+    {
+      "name": "writing",
+      "subscribers": 3253454,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 5,
+        "avg_comments": 11.65,
+        "avg_upvote_ratio": 0.626,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 42.95,
+        "avg_comments": 42.25,
+        "avg_upvote_ratio": 0.8475,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 3.580809810127944,
+      "category": "Hobbies"
+    },
+    {
+      "name": "boardgames",
+      "subscribers": 5366017,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 39.7,
+        "avg_comments": 17.05,
+        "avg_upvote_ratio": 0.548,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 92.9,
+        "avg_comments": 40.95,
+        "avg_upvote_ratio": 0.8275,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 3.177403276955701,
+      "category": "Hobbies"
+    },
+    {
+      "name": "woodworking",
+      "subscribers": 6062834,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 8.35,
+        "avg_comments": 5.5,
+        "avg_upvote_ratio": 0.95,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 629,
+        "avg_comments": 370.4,
+        "avg_upvote_ratio": 0.9675,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 0.9071665165168633,
+      "category": "Hobbies"
+    },
+    {
+      "name": "fitness",
+      "subscribers": 12426117,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 22.75,
+        "avg_comments": 83.2,
+        "avg_upvote_ratio": 0.8745,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 115.4,
+        "avg_comments": 78.85,
+        "avg_upvote_ratio": 0.8765,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 6.695575134211275,
+      "category": "Lifestyle"
+    },
+    {
+      "name": "loseit",
+      "subscribers": 4075599,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 32,
+        "avg_comments": 12.75,
+        "avg_upvote_ratio": 0.8245,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 75.2,
+        "avg_comments": 20.8,
+        "avg_upvote_ratio": 0.8945,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 3.128374503968619,
+      "category": "Health"
+    },
+    {
+      "name": "nutrition",
+      "subscribers": 5852541,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 14.45,
+        "avg_comments": 21.55,
+        "avg_upvote_ratio": 0.782,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 15.8,
+        "avg_comments": 20.2,
+        "avg_upvote_ratio": 0.782,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 3.682161303953275,
+      "category": "Health"
+    },
+    {
+      "name": "mentalhealth",
+      "subscribers": 573072,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 1.2,
+        "avg_comments": 1.2,
+        "avg_upvote_ratio": 0.983,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 35.55,
+        "avg_comments": 20.5,
+        "avg_upvote_ratio": 0.9575,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 2.093977720077058,
+      "category": "Health"
+    },
+    {
+      "name": "depression",
+      "subscribers": 1107699,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 2.45,
+        "avg_comments": 2.45,
+        "avg_upvote_ratio": 0.9435,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 149.85,
+        "avg_comments": 29.45,
+        "avg_upvote_ratio": 0.946,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 2.211792192644392,
+      "category": "Health"
+    },
+    {
+      "name": "anxiety",
+      "subscribers": 794549,
+      "over18": false,
+      "recent_engagement": {
+        "avg_score": 1.5,
+        "avg_comments": 1.3,
+        "avg_upvote_ratio": 0.983,
+        "total_posts_analyzed": 20
+      },
+      "hot_engagement": {
+        "avg_score": 23,
+        "avg_comments": 9.7,
+        "avg_upvote_ratio": 0.9595,
+        "total_posts_analyzed": 20
+      },
+      "engagement_rate": 1.6361483055167145,
+      "category": "Health"
+    }
+  ],
+  "insights": {
+    "total_categories_analyzed": 10,
+    "successful_analyses": 58,
+    "engagement_distribution": {
+      "high_engagement": 19,
+      "medium_engagement": 27,
+      "low_engagement": 12
+    }
+  }
+}

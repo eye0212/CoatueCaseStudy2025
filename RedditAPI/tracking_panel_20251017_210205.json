@@ -1,0 +1,726 @@
+{
+  "created_date": "2025-10-17T21:02:05.081346",
+  "total_subreddits": 120,
+  "subreddits": [
+    {
+      "subreddit": "Home",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:52.018786",
+      "is_active": true
+    },
+    {
+      "subreddit": "AskReddit",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:52.110833",
+      "is_active": true
+    },
+    {
+      "subreddit": "NoStupidQuestions",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:52.264264",
+      "is_active": true
+    },
+    {
+      "subreddit": "BaldursGate3",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:52.338834",
+      "is_active": true
+    },
+    {
+      "subreddit": "facepalm",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:52.410011",
+      "is_active": true
+    },
+    {
+      "subreddit": "interestingasfuck",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:52.471272",
+      "is_active": true
+    },
+    {
+      "subreddit": "Damnthatsinteresting",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:52.539657",
+      "is_active": true
+    },
+    {
+      "subreddit": "LivestreamFail",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:52.616768",
+      "is_active": true
+    },
+    {
+      "subreddit": "pics",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:52.728284",
+      "is_active": true
+    },
+    {
+      "subreddit": "Palworld",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:52.787884",
+      "is_active": true
+    },
+    {
+      "subreddit": "AmItheAsshole",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:52.860533",
+      "is_active": true
+    },
+    {
+      "subreddit": "mildlyinfuriating",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:52.929786",
+      "is_active": true
+    },
+    {
+      "subreddit": "Piracy",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:53.004928",
+      "is_active": true
+    },
+    {
+      "subreddit": "PeterExplainsTheJoke",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:53.069273",
+      "is_active": true
+    },
+    {
+      "subreddit": "funny",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:53.141919",
+      "is_active": true
+    },
+    {
+      "subreddit": "AITAH",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:53.252273",
+      "is_active": true
+    },
+    {
+      "subreddit": "movies",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:53.326933",
+      "is_active": true
+    },
+    {
+      "subreddit": "Helldivers",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:53.397351",
+      "is_active": true
+    },
+    {
+      "subreddit": "gaming",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:53.473513",
+      "is_active": true
+    },
+    {
+      "subreddit": "worldnews",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:53.550708",
+      "is_active": true
+    },
+    {
+      "subreddit": "leagueoflegends",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:53.621485",
+      "is_active": true
+    },
+    {
+      "subreddit": "pcmasterrace",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:53.777128",
+      "is_active": true
+    },
+    {
+      "subreddit": "Unexpected",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:53.847373",
+      "is_active": true
+    },
+    {
+      "subreddit": "news",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:53.920232",
+      "is_active": true
+    },
+    {
+      "subreddit": "politics",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:53.987571",
+      "is_active": true
+    },
+    {
+      "subreddit": "wallstreetbets",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:54.067121",
+      "is_active": true
+    },
+    {
+      "subreddit": "todayilearned",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:54.180392",
+      "is_active": true
+    },
+    {
+      "subreddit": "nottheonion",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:54.301519",
+      "is_active": true
+    },
+    {
+      "subreddit": "memes",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:54.377502",
+      "is_active": true
+    },
+    {
+      "subreddit": "PublicFreakout",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:54.453718",
+      "is_active": true
+    },
+    {
+      "subreddit": "Wellthatsucks",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:54.531530",
+      "is_active": true
+    },
+    {
+      "subreddit": "explainlikeimfive",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:54.598230",
+      "is_active": true
+    },
+    {
+      "subreddit": "OutOfTheLoop",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:54.668868",
+      "is_active": true
+    },
+    {
+      "subreddit": "OnePiece",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:54.827803",
+      "is_active": true
+    },
+    {
+      "subreddit": "BlackPeopleTwitter",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:54.911019",
+      "is_active": true
+    },
+    {
+      "subreddit": "buildapc",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:54.987227",
+      "is_active": true
+    },
+    {
+      "subreddit": "HonkaiStarRail",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:55.062084",
+      "is_active": true
+    },
+    {
+      "subreddit": "SipsTea",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:55.135033",
+      "is_active": true
+    },
+    {
+      "subreddit": "Minecraft",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:55.213038",
+      "is_active": true
+    },
+    {
+      "subreddit": "mildlyinteresting",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:55.349614",
+      "is_active": true
+    },
+    {
+      "subreddit": "nfl",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:55.450241",
+      "is_active": true
+    },
+    {
+      "subreddit": "BeAmazed",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:55.522325",
+      "is_active": true
+    },
+    {
+      "subreddit": "DIY",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:55.584934",
+      "is_active": true
+    },
+    {
+      "subreddit": "nba",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:55.655828",
+      "is_active": true
+    },
+    {
+      "subreddit": "MapPorn",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:55.723131",
+      "is_active": true
+    },
+    {
+      "subreddit": "Steam",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:55.873178",
+      "is_active": true
+    },
+    {
+      "subreddit": "Overwatch",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:55.942021",
+      "is_active": true
+    },
+    {
+      "subreddit": "Genshin_Impact",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:56.027650",
+      "is_active": true
+    },
+    {
+      "subreddit": "classicwow",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:56.107702",
+      "is_active": true
+    },
+    {
+      "subreddit": "soccer",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:56.181783",
+      "is_active": true
+    },
+    {
+      "subreddit": "Eldenring",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:56.252741",
+      "is_active": true
+    },
+    {
+      "subreddit": "badroommates",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:56.398060",
+      "is_active": true
+    },
+    {
+      "subreddit": "personalfinance",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:56.472679",
+      "is_active": true
+    },
+    {
+      "subreddit": "antiwork",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:56.543873",
+      "is_active": true
+    },
+    {
+      "subreddit": "anime",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:56.621918",
+      "is_active": true
+    },
+    {
+      "subreddit": "wow",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:56.722839",
+      "is_active": true
+    },
+    {
+      "subreddit": "DnD",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:56.794230",
+      "is_active": true
+    },
+    {
+      "subreddit": "technology",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:56.922054",
+      "is_active": true
+    },
+    {
+      "subreddit": "WhitePeopleTwitter",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:57.009901",
+      "is_active": true
+    },
+    {
+      "subreddit": "EscapefromTarkov",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:57.076051",
+      "is_active": true
+    },
+    {
+      "subreddit": "unpopularopinion",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:57.147320",
+      "is_active": true
+    },
+    {
+      "subreddit": "popculturechat",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:57.225305",
+      "is_active": true
+    },
+    {
+      "subreddit": "videos",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:57.297724",
+      "is_active": true
+    },
+    {
+      "subreddit": "BestofRedditorUpdates",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:57.447284",
+      "is_active": true
+    },
+    {
+      "subreddit": "youtube",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:57.523896",
+      "is_active": true
+    },
+    {
+      "subreddit": "legaladvice",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:57.591400",
+      "is_active": true
+    },
+    {
+      "subreddit": "ffxiv",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:57.692683",
+      "is_active": true
+    },
+    {
+      "subreddit": "sysadmin",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:57.773051",
+      "is_active": true
+    },
+    {
+      "subreddit": "MadeMeSmile",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:57.840773",
+      "is_active": true
+    },
+    {
+      "subreddit": "CombatFootage",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:57.971194",
+      "is_active": true
+    },
+    {
+      "subreddit": "relationship_advice",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:58.046552",
+      "is_active": true
+    },
+    {
+      "subreddit": "discordapp",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:58.112531",
+      "is_active": true
+    },
+    {
+      "subreddit": "pcgaming",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:58.192546",
+      "is_active": true
+    },
+    {
+      "subreddit": "Games",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:58.264584",
+      "is_active": true
+    },
+    {
+      "subreddit": "ChatGPT",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:58.334800",
+      "is_active": true
+    },
+    {
+      "subreddit": "GlobalOffensive",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:58.494796",
+      "is_active": true
+    },
+    {
+      "subreddit": "2007scape",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:58.601503",
+      "is_active": true
+    },
+    {
+      "subreddit": "formula1",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:58.679838",
+      "is_active": true
+    },
+    {
+      "subreddit": "CuratedTumblr",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:58.758920",
+      "is_active": true
+    },
+    {
+      "subreddit": "Gamingcirclejerk",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:58.831385",
+      "is_active": true
+    },
+    {
+      "subreddit": "TikTokCringe",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:58.902915",
+      "is_active": true
+    },
+    {
+      "subreddit": "PiratedGames",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:59.019998",
+      "is_active": true
+    },
+    {
+      "subreddit": "techsupport",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:59.086482",
+      "is_active": true
+    },
+    {
+      "subreddit": "shitposting",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:59.151755",
+      "is_active": true
+    },
+    {
+      "subreddit": "theydidthemath",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:59.221923",
+      "is_active": true
+    },
+    {
+      "subreddit": "malelivingspace",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:59.287483",
+      "is_active": true
+    },
+    {
+      "subreddit": "WTF",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:59.367162",
+      "is_active": true
+    },
+    {
+      "subreddit": "cyberpunkgame",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:59.451208",
+      "is_active": true
+    },
+    {
+      "subreddit": "OldSchoolCool",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:59.609621",
+      "is_active": true
+    },
+    {
+      "subreddit": "coolguides",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:59.678725",
+      "is_active": true
+    },
+    {
+      "subreddit": "AskMen",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:59.763265",
+      "is_active": true
+    },
+    {
+      "subreddit": "dankmemes",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:59.876015",
+      "is_active": true
+    },
+    {
+      "subreddit": "feedthebeast",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:01:59.947689",
+      "is_active": true
+    },
+    {
+      "subreddit": "Warframe",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:00.068611",
+      "is_active": true
+    },
+    {
+      "subreddit": "UkraineWarVideoReport",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:00.128735",
+      "is_active": true
+    },
+    {
+      "subreddit": "SteamDeck",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:00.205059",
+      "is_active": true
+    },
+    {
+      "subreddit": "college",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:00.288179",
+      "is_active": true
+    },
+    {
+      "subreddit": "manga",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:00.362821",
+      "is_active": true
+    },
+    {
+      "subreddit": "CrazyFuckingVideos",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:00.444342",
+      "is_active": true
+    },
+    {
+      "subreddit": "rareinsults",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:00.591631",
+      "is_active": true
+    },
+    {
+      "subreddit": "Abiwacu",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:00.987381",
+      "is_active": true
+    },
+    {
+      "subreddit": "WhatTheyDontSee",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:01.201852",
+      "is_active": true
+    },
+    {
+      "subreddit": "PortraitParade3454",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:01.392188",
+      "is_active": true
+    },
+    {
+      "subreddit": "LegendofElements2",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:01.638527",
+      "is_active": true
+    },
+    {
+      "subreddit": "Jurnal_Meteo_Romania",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:01.819097",
+      "is_active": true
+    },
+    {
+      "subreddit": "Caribbeanpokemongo",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:02.000707",
+      "is_active": true
+    },
+    {
+      "subreddit": "FrameTheSky534",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:02.271095",
+      "is_active": true
+    },
+    {
+      "subreddit": "ablecarry",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:02.472101",
+      "is_active": true
+    },
+    {
+      "subreddit": "HeadscissorsReverse",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:02.692424",
+      "is_active": true
+    },
+    {
+      "subreddit": "ShraddhaKapoor38",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:02.866865",
+      "is_active": true
+    },
+    {
+      "subreddit": "DreamWorksA",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:03.059400",
+      "is_active": true
+    },
+    {
+      "subreddit": "KeyProsLocksmith",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:03.286891",
+      "is_active": true
+    },
+    {
+      "subreddit": "WatchBuddyApp",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:03.551527",
+      "is_active": true
+    },
+    {
+      "subreddit": "naruralparadise",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:03.798560",
+      "is_active": true
+    },
+    {
+      "subreddit": "UrbanSnapshots32",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:03.981273",
+      "is_active": true
+    },
+    {
+      "subreddit": "NYCMarket",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:04.167180",
+      "is_active": true
+    },
+    {
+      "subreddit": "MoodyFramet456",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:04.357237",
+      "is_active": true
+    },
+    {
+      "subreddit": "QuizTweek",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:04.541569",
+      "is_active": true
+    },
+    {
+      "subreddit": "Tutto_una_commedia_33",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:04.785818",
+      "is_active": true
+    },
+    {
+      "subreddit": "HiccupCure",
+      "subscribers": 0,
+      "added_date": "2025-10-17T21:02:04.974517",
+      "is_active": true
+    }
+  ]
+}

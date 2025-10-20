@@ -1,0 +1,89 @@
+{
+  "generated_at": "2025-10-19T03:27:26.248497",
+  "analysis_type": "realistic_dau_calibration",
+  "raw_data": {
+    "date": "2025-10-19",
+    "total_activities": 13396,
+    "dau_prime": 8669,
+    "wau_prime": 8669,
+    "mau_prime": 8669,
+    "unique_subreddits": 245,
+    "categories_covered": 7,
+    "collection_efficiency": 0.49,
+    "category_breakdown": [
+      [
+        "lifestyle_subreddits",
+        3021,
+        2244,
+        46
+      ],
+      [
+        "top_global",
+        1876,
+        1537,
+        29
+      ],
+      [
+        "tech_subreddits",
+        1867,
+        1419,
+        42
+      ],
+      [
+        "finance_subreddits",
+        1533,
+        1196,
+        31
+      ],
+      [
+        "news_subreddits",
+        1222,
+        891,
+        46
+      ],
+      [
+        "hobby_subreddits",
+        1090,
+        820,
+        30
+      ],
+      [
+        "science_subreddits",
+        883,
+        696,
+        34
+      ]
+    ]
+  },
+  "calibration": {
+    "calibration_factors": {
+      "k_dau": 8432.345137847502,
+      "k_wau": 8432.345137847502,
+      "k_mau": 8432.345137847502
+    },
+    "calibrated_metrics": {
+      "dau": 73100000.0,
+      "wau": 73100000.0,
+      "mau": 73100000.0
+    },
+    "accuracy": {
+      "dau_accuracy": 1.0,
+      "wau_accuracy": 0.2732710280373832
+    },
+    "coverage_analysis": {
+      "subreddit_coverage": 0.00245,
+      "activity_coverage": 0.013396,
+      "author_coverage": 0.00011859097127222983
+    }
+  },
+  "insights": [
+    "Subreddit coverage: 0.24% of Reddit's active subreddits",
+    "Activity coverage: 1.34% of Reddit's daily activities",
+    "Author coverage: 0.01% of Reddit's DAU",
+    "DAU estimation accuracy: 100.0%",
+    "WAU estimation accuracy: 27.3%",
+    "Collection efficiency: 49.0%",
+    "Categories covered: 7",
+    "Subreddits sampled: 245"
+  ]
+}

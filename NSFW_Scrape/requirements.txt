@@ -1,0 +1,9 @@
+praw==7.7.1
+pandas>=2.2.2
+pyyaml>=6.0.2
+tqdm>=4.66.4
+requests>=2.32.3
+urllib3<2
+# Optional for local toxicity (commented out to keep setup simple)
+# detoxify==0.5.1
+# torch>=2.0.0

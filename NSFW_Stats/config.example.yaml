@@ -1,0 +1,56 @@
+reddit:
+  client_id: "YOUR_REDDIT_CLIENT_ID"
+  client_secret: "YOUR_REDDIT_CLIENT_SECRET"
+  user_agent: "reddit-citation-audit by u/YOUR_USERNAME"
+
+sampling:
+  start: "now-30d"
+  end: "now"
+  target_posts: 3000
+  per_subreddit_cap: 300
+  top_comments_per_post: 5
+
+subreddits:
+  include: []
+  exclude: []
+
+filters:
+  profanity_words:
+    - "fuck"
+    - "shit"
+    - "bitch"
+    - "asshole"
+    - "bastard"
+    - "dick"
+    - "cunt"
+    - "slut"
+    - "whore"
+    - "nigger"
+    - "faggot"
+    - "retard"
+    - "piss"
+    - "cock"
+    - "pussy"
+    - "motherfucker"
+  piracy_keywords:
+    - "pirated"
+    - "torrent"
+    - "crack"
+    - "warez"
+    - "ddl"
+    - "megaupload"
+    - "repack"
+    - "scene release"
+  other_restricted_keywords:
+    - "dox"
+    - "buy cocaine"
+    - "hitman"
+    - "make a bomb"
+
+thresholds:
+  profanity_rate_threshold: 0.01
+
+outputs:
+  out_dir: "./outputs"
+  write_post_dump: true
+  write_comment_dump: true
